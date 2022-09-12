@@ -1,0 +1,57 @@
+/* 
+ Stylesheet for: Paul Ramnora Web - (Vercel.com)
+
+ Created: Mon 12th Sep 2022 13:12 PM GMT
+ Updated: Mon 12th Sep 2022 13:12 PM GMT
+*/
+
+/* links */
+    
+a:link{color:blue;text-decoration:none;}
+a:hover{color:red;text-decoration:underline;}
+a:active{color:yellow;}
+a:visited{color:purple;}  
+
+/* html */
+
+html{
+ margin:1cm;  
+ background-color:black
+}
+    
+/* body */
+
+body{
+ font-family:cursive,helvetica,monospace,arial,verdana,sans-serif;  
+}
+
+/* header */
+
+header{
+ text-align:center; 
+}  
+
+/* main */
+    
+main{}
+    
+.clsPara{
+ text-indent:1cm; 
+}
+
+/* footer */
+
+footer{
+ text-align:center;  
+}
+    
+.clsCopyrightMessage{
+ background-color:black;
+ color:white; 
+}
+    
+.clsDateTimeStamp{
+ font-style:italic;
+ color:red; 
+}  
+   
