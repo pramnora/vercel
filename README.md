@@ -24,9 +24,9 @@ Apparently, personal a/c's are FREE; and, also, automatically, includes a (https
    (and, basically, that's it, you're a Vercel member, now)  
 
 4> Inside of Vercel site, choose the option link GitHub a/c.;  
-   and, then, select a GitHub repository to display.  
+   and, next, select a GitHub repository to display.  
 
-5> You will be given a URL address to go and view the web site.  
+5> You will be given a URL address to go and view the web site 'live'.  
 
 -----
 
