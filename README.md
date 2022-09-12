@@ -1,5 +1,4 @@
-# vercel
-vercel
+# vercel/(web site hosting service)
 
 Created: *Mon 120922 01:09 AM GMT*  
 Updated: *Mon 120922 08:50 PM GMT*
