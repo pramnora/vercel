@@ -1,0 +1,33 @@
+Created: Mon 12th Sep 2022 14:55 PM GMT
+Updated: Mon 12th Sep 2022 14:55 PM GMT
+
+-----
+
+I joined web site hosting service: Vercel.com 
+very early this morning: 1 AM - 2 AM;
+having gone and created a personal FREE a/c.
+
+Connected my GitHub code repository...which is, also, called: Vercel;
+and, was given the following URL address to go and view the site: 
+
+https://vercel-pramnora.vercel.com
+
+...everything seems to be fully up and working.
+
+-----
+
+The original web page I had created said, simply, using plain text: index.html:
+Test page.
+...then, when I awoke, later on...2 PM;
+I decided to add more onto the site using proper: HTML/CSS.
+
+-----
+
+I also divided up the site into being separate sections:
+
+index.html
+[resources]/[css]/css01.css
+[admin]/[logs]/[2002]/[09]/[12]/log.txt
+
+
+
