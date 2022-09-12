@@ -53,7 +53,7 @@ nav{
 
 /* general */
 
-main, header, footer, h2{
+main, header, .clsVisitorSiteLocation, footer, h2{
  padding:10px;
 }
 
