@@ -4,15 +4,21 @@ vercel
 Created: *Mon 120922 01:09 AM GMT*  
 Updated: *Mon 120922 08:50 PM GMT*
 
-Joined vercel site hosting service:
+-----
 
-- https://vercel.com
+Joined vercel site hosting service:  
 
-- https://vercel-pramnora.vercel.app
+- https://vercel.com  
 
-...connected this GitHub code repository.
+...to which I connected this GitHub code repository...  
 
-Apparently, personal a/c's are FREE; and, also, automatically, includes a (https://) prefix.
+https://github.com/pramnora/vercel    
+
+...and, was given a URL address to view seeing the GitHub Repo running 'live' on the internet...  
+
+- https://vercel-pramnora.vercel.app  
+
+Apparently, signing up for personal a/c's is FREE; as is the (https://) certificate prefix to your site.  
 
 -----
 
