@@ -22,6 +22,8 @@ html{
 /* body */
 
 body{
+ background-color:white;
+ color:black;
  font-family:cursive,helvetica,monospace,arial,verdana,sans-serif;  
 }
 
