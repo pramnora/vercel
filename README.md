@@ -11,7 +11,7 @@ Joined vercel site hosting service:
 
 ...to which I connected this GitHub code repository...  
 
-https://github.com/pramnora/vercel    
+- https://github.com/pramnora/vercel    
 
 ...and, was given a URL address to view seeing the GitHub Repo running 'live' on the internet...  
 
