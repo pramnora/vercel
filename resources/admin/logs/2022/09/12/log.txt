@@ -1,5 +1,5 @@
 Created: Mon 12th Sep 2022 14:55 PM GMT
-Updated: Mon 12th Sep 2022 14:55 PM GMT
+Updated: Mon 12th Sep 2022 16:44 PM GMT
 
 -----
 
@@ -23,11 +23,29 @@ I decided to add more onto the site using proper: HTML/CSS.
 
 -----
 
-I also divided up the site into being separate sections:
+    Web site layout...
+   
+    -----
+   
+    (main web site home page...)
 
-index.html
-[resources]/[css]/css01.css
-[admin]/[logs]/[2002]/[09]/[12]/log.txt
+    index.html
+    
+    (admin logs...)
 
+    [resources]/[admin]/[logs]/[2022]/[09]/[12]/log.txt
 
+    (main web site stylesheet...)
+    
+    [resources]/[css]/css01.css
+    
+    (general files...)
+    
+    [resources]/[general]/sitemap.html
+    
+    -----
+    
+    Key: A pair of square brackets indicates a folder: [folderName]/ 
+         otherwise, it indicates a file: fileName.fileNameExtension
 
+-----
