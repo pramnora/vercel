@@ -36,7 +36,7 @@ Apparently, signing up for personal a/c's is FREE; as is the (https://) certific
 
 6> You will be given a URL address to go and view seeing the web site 'live'.  
 
--(##NOTE##: At first, I was very deeply worried about running up any extra charges.../which I can't even afford to pay for...?!  
+-(**NOTE**: At first, I was very deeply worried about running up any extra charges.../which I can't even afford to pay for...?!  
 However, if you sign up for a *personal* a/c.; then, the web site hosting is all for FREE...!)-
 
 -----
