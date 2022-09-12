@@ -55,6 +55,7 @@ footer{
 .clsCopyrightMessage{
  background-color:white;
  color:black; 
+ font-weight:bold;
 }
     
 .clsDateTimeStamp{
