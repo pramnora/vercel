@@ -2,7 +2,7 @@
  Stylesheet for: Paul Ramnora Web - (Vercel.com)
 
  Created: Mon 12th Sep 2022 13:12 PM GMT
- Updated: Mon 12th Sep 2022 13:41 PM GMT
+ Updated: Mon 12th Sep 2022 13:45 PM GMT
 */
 
 /* links */
@@ -44,6 +44,7 @@ main{
 h2{
  background-color:black;
  color:white;
+ text-align:center;
 }
 
 .clsPara{
