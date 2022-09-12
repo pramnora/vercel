@@ -31,9 +31,13 @@ Apparently, signing up for personal a/c's is FREE; as is the (https://) certific
    (and, basically, that's it, you're a Vercel member, now)  
 
 4> Inside of Vercel site, choose the option link GitHub a/c.;  
-   and, next, select a GitHub repository to display.  
+    
+5> Select a GitHub repository to display.  
 
-5> You will be given a URL address to go and view the web site 'live'.  
+6> You will be given a URL address to go and view seeing the web site 'live'.  
+
+-(##NOTE##: At first, I was very deeply worried about running up any extra charges.../which I can't even afford to pay for...?!  
+However, if you sign up for a *personal* a/c.; then, the web site hosting is all for FREE...!)-
 
 -----
 
