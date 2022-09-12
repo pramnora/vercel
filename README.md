@@ -32,4 +32,4 @@ Apparently, personal a/c's are FREE; and, also, automatically, includes a (https
 
 ## Links
 
-https://vercel.com  
+- https://vercel.com  
