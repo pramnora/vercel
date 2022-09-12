@@ -8,7 +8,7 @@ Joined vercel site hosting service.
 
 - https://vercel-pramnora.vercel.app
 
-...connected a GitHub repository.
+...connected this GitHub code repository.
 
 -----
 
